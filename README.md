@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+To run this project - https://main.d1vvxbaxnw3h12.amplifyapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
